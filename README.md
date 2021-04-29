@@ -3,5 +3,5 @@ In a nutshell, this project is a simple human activity recognition model. The mo
 ### 📰 Output:
 ![Video](https://github.com/snehitvaddi/Automatic-AI-Movie-Cautioning-System-/blob/master/fast-output.gif)
 
-### Implementation:
+### 🛠 Implementation:
 In file `Movie Cautioning System.ipynb`, you will have two implementations. One is **Frame-by-Frame** processing and the other is **Batch-wise processing**.<br>
