@@ -5,3 +5,4 @@ In a nutshell, this project is a simple human activity recognition model. The mo
 
 ### 🛠 Implementation:
 In file `Movie Cautioning System.ipynb`, you will have two implementations. One is **Frame-by-Frame** processing and the other is **Batch-wise processing**.<br>
+A much better system could be implemented where the caution stays on frame for instead of flickering like in this case. 
