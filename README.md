@@ -1,6 +1,6 @@
 ## AI Based Automatic Movie Scene Cautioning System.
 In a nutshell, this project is a simple human activity recognition model. The model is trained upon [**Kinetics dataset**](https://deepmind.com/research/open-source/kinetics) Dataset from DeepMind. The dataset consists of URL links to approximately 650,000 video clips that covers 700 human action classes. <br>
-I have cutdown the number of 4 classes in correspondence to score of project. The classes are shown below:<br>
+Keeping scope of project in mind, we have restricted model inference for only four classes. The four classes are shown below:<br>
 * smoking
 * driving car
 * riding a bike
