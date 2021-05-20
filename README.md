@@ -10,5 +10,5 @@ Keeping scope of project in mind, we have restricted model inference for only fo
 ![Video](https://github.com/snehitvaddi/Automatic-AI-Movie-Cautioning-System-/blob/master/fast-output.gif)
 
 ### 🛠 Implementation:
-In file `Movie Cautioning System.ipynb`, you will have two implementations. One is **Frame-by-Frame** processing and the other is **Batch-wise processing**.<br>
+In file `Movie Cautioning System.ipynb`, you will have two implementations. One is **Frame-by-Frame** processing and the other is **Batch-wise processing**.
 A much better system could be implemented where the caution stays on frame for instead of flickering like in this case. 
